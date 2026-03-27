@@ -18,3 +18,8 @@ The goal is to discover pricing trends, airline performance, and route costs usi
 - Top 10 Expensive Routes
 - Top 10 Busiest Routes (Based on Average Passenger Count)
 - Case statement to categorize the average fares into three tiers: Cheap, Medium, Expensive
+
+## Visualizations
+
+### Average Fare by Year
+![Average Fare](visualizations/Average Fare per year.png)
