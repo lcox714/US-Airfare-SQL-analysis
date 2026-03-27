@@ -22,4 +22,5 @@ The goal is to discover pricing trends, airline performance, and route costs usi
 ## Visualizations
 
 ### Average Fare by Year
-![Average Fare](visualizations/Average Fare per year.png)
+![Average Fare]([visualizations/Average Fare per year.png](https://github.com/lcox714/US-Airfare-SQL-analysis/blob/main/visualizations/Average%20Fare%20per%20year.png?raw=true))
+
